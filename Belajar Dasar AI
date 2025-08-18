@@ -1,0 +1,29 @@
+# Kecerdasan Buatan (Artificial Intelligence / AI)
+
+**AI (Artificial Intelligence / Kecerdasan Buatan)** adalah ilmu yang mempelajari cara mengajarkan mesin untuk belajar, bertindak, dan berpikir seperti manusia dalam menyelesaikan tugas-tugas kehidupan nyata.  
+
+AI merupakan teknologi yang meniru perilaku manusia pada komputer sehingga komputer dapat mempelajari serta melakukan tugas tanpa bantuan eksplisit mengenai output yang diharapkan.  
+
+**Machine Learning** adalah bagian dari AI yang menggunakan metode statistika untuk membuat komputer dapat mempelajari pola dari data tanpa perlu diprogram secara eksplisit.  
+
+---
+
+## Tahapan Pengembangan AI
+
+1. **Digitalise & Collect**  
+   Mengumpulkan dan menyimpan data yang akan digunakan dalam proses pembangunan AI.
+
+2. **Transform**  
+   Pada tahap ini, data yang dikumpulkan diproses berulang kali:  
+   - Persiapan data  
+   - Mengubah data menjadi format yang dibutuhkan  
+   - Mengevaluasi data dengan mengidentifikasi data yang tidak relevan  
+
+3. **Train**  
+   Proses pelatihan untuk membuat komputer dapat mempelajari data yang diberikan sehingga mampu melakukan tugas berdasarkan pola yang telah dipelajari.
+
+4. **Execute**  
+   Setelah tahap pelatihan, model AI yang sudah dilatih dapat digunakan untuk menjalankan tugas yang meniru kemampuan manusia. Proses ini dianalisis ulang untuk memastikan sistem sesuai harapan serta memberikan umpan balik untuk perbaikan.
+
+5. **Provide Insights to Make Decisions**  
+   Tahap ini berfokus pada ekstraksi pengetahuan dari model AI. Hasilnya digunakan untuk membantu pengambilan keputusan serta meningkatkan pemahaman dalam pengembangan AI selanjutnya.
