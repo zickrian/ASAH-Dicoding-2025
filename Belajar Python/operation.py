@@ -30,10 +30,16 @@ print('dian' in university) #true
 
 print('semarang ' not in university) #true
 
-#short ( mengurutkan)
+
+#sort (mengurutkan)
 trans = ["bandung", "semarang", "jakarta", "surabaya"]
-trans.sort()
+trans.sort()  # mengurutkan list secara ascending (A-Z)
 print(trans)
 
-trans.sort(reverse=True)
+trans.sort(reverse=True)  # mengurutkan list secara descending (Z-A)
 print(trans)
+
+# Jika ingin mendapatkan list baru yang sudah diurutkan tanpa mengubah list asli:
+trans = ["bandung", "semarang", "jakarta", "surabaya"]
+sorted_trans = sorted(trans)
+print(sorted_trans)
