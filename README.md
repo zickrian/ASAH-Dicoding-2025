@@ -14,6 +14,7 @@ Pada folder `Belajar Python`, terdapat beberapa file yang digunakan untuk belaja
 | `konversi.py`        | Contoh konversi tipe data di Python: int, float, str, tuple, set, list, dan dictionary. Termasuk penggunaan struktur data array.   |
 | `transformation.py`  | Berbagai teknik transformasi dan manipulasi string: upper/lower, strip, startswith/endswith, join/split, replace, pengecekan karakter, serta formatting string (zfill, rjust, ljust, center). |
 | `operation.py`        | Berisi berbagai operasi pada list, set, tuple, dan string seperti len, min, max, count, in/not in, sort, dan sorted. Menjelaskan cara pengurutan, pencarian, dan pengecekan elemen pada struktur data. |
+| `Ekspresion.py`        | Berisi contoh berbagai ekspresi dan operasi aritmatika, penjumlahan, pengurangan, perkalian, pembagian, modulus, pangkat, serta operasi pada list dan string. Termasuk operator perbandingan dan assignment seperti +=, -=, *=, /=, dan %=. |
 
 ### Belajar Dasar AI
 Pada folder `Belajar Dasar AI`, terdapat file `AI.docx` yang berisi materi pembelajaran dasar tentang Artificial Intelligence (AI).
