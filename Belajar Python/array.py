@@ -47,6 +47,20 @@ for i in range(1, len(var_arr)):
         left_pointer = right_pointer
 
 print(left_pointer)  # hasil: nilai maksimum dari daftar (89)
+#di atas dapat di lakukan dengan max ( cara mudah) tapi di atas kita belajar memakai algoritma double pointer
+
+#berlatih mencari nilai terkecil dalam array
+var_arr = [3, 2, 7, 89, 40, 5]
+left_pointer = var_arr[0]
+
+for i in range(1,len(var_arr)):
+    right_pointer = var_arr[i]
+
+    if right_pointer < left_pointer:
+        left_pointer = right_pointer
+
+print(left_pointer)
+        
 
 
 """
