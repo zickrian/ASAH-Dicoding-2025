@@ -19,6 +19,19 @@ Pada folder `Belajar Python`, terdapat beberapa file yang digunakan untuk belaja
 | `array.py`            | Implementasi dan penggunaan array dalam Python menggunakan modul array dan list comprehension. Demonstrasi operasi indeksing dan iterasi menggunakan pointer. |
 | `Matrix.py`           | Contoh implementasi matriks menggunakan list bersarang dan NumPy. Membandingkan efisiensi memori, mendemonstrasikan akses dan modifikasi elemen, serta penggunaan list comprehension untuk inisialisasi matriks. |
 | `ErorHandling.py`     | Penanganan error (exception handling) di Python menggunakan blok try-except-else-finally dan contoh penggunaan statement raise untuk memunculkan exception secara manual. |
+| `clallenge.py`        | Contoh penggunaan list comprehension dan loop for untuk menghasilkan list angka genap dari 0 hingga 500. |
+| `prosedur.py`         | (File kosong, belum ada konten) |
+| `subprogram.py`       | Contoh implementasi subprogram/fungsi di Python, termasuk positional/keyword arguments, variadic arguments (*args/**kwargs), dan lambda functions. |
+
+#### OOP Python
+Pada subfolder `OOP Python`, terdapat file-file yang fokus pada pemrograman berorientasi objek (OOP) di Python:
+
+| Nama File            | Deskripsi                                                                                                                        |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| `Inheritance.py`     | Contoh implementasi inheritance (pewarisan) di Python dengan kelas `MobilBasic` sebagai parent dan `Ferari` sebagai child. Menunjukkan cara pewarisan atribut dan method, serta penggunaan objek. |
+| `Mobils.py`          | (Deskripsi belum tersedia)                                                                                                       |
+| `Override.py`        | (Deskripsi belum tersedia)                                                                                                       |
+| `super.py`           | Contoh penggunaan `super()` dalam inheritance untuk memanggil method dari parent class. Menunjukkan override method dan akses ke method induk. |
 
 ### Belajar Dasar AI
 Pada folder `Belajar Dasar AI`, terdapat file `AI.docx` yang berisi materi pembelajaran dasar tentang Artificial Intelligence (AI).
