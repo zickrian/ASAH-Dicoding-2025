@@ -64,3 +64,5 @@ print(cetak_info(nama="Dicoding", usia="17", pekerjaan="Python Programmer"))  # 
 # Fungsi lambda untuk operasi pertambahan
 pertambahan = lambda sisi, hasil: sisi + sisi  # Fungsi lambda untuk menambahkan sisi dua kali
 print(pertambahan(10, 10))  # Menampilkan hasil pertambahan 10 + 10
+
+
